@@ -1,0 +1,16 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "Creating Server Using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Index",
+    "dev": "nodemon Index"
+  },
+  "author": "Tejaswini",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
