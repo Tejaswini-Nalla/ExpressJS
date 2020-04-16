@@ -8,7 +8,7 @@ const logger = require('./middleware/logger');
 //    res.sendFile(path.join(__dirname,'public','Index.html'));
 //});
 
-//middleware
+//init middleware
 app.use(logger)
 
 //set static folder
